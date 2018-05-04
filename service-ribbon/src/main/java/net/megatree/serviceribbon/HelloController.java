@@ -17,4 +17,5 @@ public class HelloController {
     public String hi(String name) {
         return helloService.hiService(name);
     }
+
 }
